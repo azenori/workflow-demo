@@ -1,1 +1,1 @@
-# Heraeus Interactive (Workflow Demostration Organization)
+# Heraeus Interactive (Workflow Demonstration Organization)
